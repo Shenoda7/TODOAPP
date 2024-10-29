@@ -15,11 +15,11 @@ Here’s a quick preview of the app:
 
 ![First Screen](https://github.com/user-attachments/assets/c97578af-b3e3-4285-a114-42cb58026956)
 
-### Todo List
+### Todo Details
 
 ![Todo List](https://github.com/user-attachments/assets/fa0f5f2d-f452-4af4-8d9d-1673c41e376d)
 
-### Todo Details
+### Third Screen
 
 ![Todo Details](https://github.com/user-attachments/assets/73fd6477-2281-48fe-aa2d-9a5bfaf1fb8b)
 
