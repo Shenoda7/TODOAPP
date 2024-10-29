@@ -1,0 +1,15 @@
+.mainWrapper {
+  padding: 50px;
+}
+.headerTitle {
+  font-size: 25px;
+}
+
+.todoListWrapper {
+  display: grid;
+  gap: 15px;
+  grid-template-columns: repeat(
+    4,
+    1fr
+  ); /*Create 4 cols ,each takes an equal portion of the avalialbe space in the grid */
+}
