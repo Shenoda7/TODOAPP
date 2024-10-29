@@ -5,10 +5,6 @@ This project is a **Simple ToDo App** built with **React** and **Material-UI** t
 - [Demo](#demo)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Setup Instructions](#setup-instructions)
-- [Project Structure](#project-structure)
-- [Key Techniques and Concepts](#key-techniques-and-concepts)
-- [Future Improvements](#future-improvements)
 
 ## Demo
 
