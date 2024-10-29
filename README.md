@@ -37,6 +37,7 @@ Here’s a quick preview of the app:
 ## Technologies Used
 
 - **React**: A JavaScript library for building user interfaces.
+- **Vite**: A modern frontend build tool that provides a faster and leaner development experience for React applications.
 - **Material-UI**: A popular React UI framework for implementing Material Design.
 - **CSS Modules**: Scoped and modular styling.
 - **JavaScript Fetch API**: For making HTTP requests to fetch to-do data from a remote API.
